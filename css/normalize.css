@@ -17,7 +17,8 @@ html {
  */
 
 body {
-  margin: 0;
+  margin: 50;
+  background-color: gold;
 }
 
 /* HTML5 display definitions
