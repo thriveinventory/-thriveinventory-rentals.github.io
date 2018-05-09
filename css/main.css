@@ -48,6 +48,9 @@ a:hover {
   font-weight: 600;
 }
 
+body {
+    margin: 50px;
+}    
 
 /***************************
     Google Table CSS
